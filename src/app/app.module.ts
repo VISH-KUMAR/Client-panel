@@ -34,11 +34,11 @@ const appRoutes: Routes = [
 ];
 
 export const firebaseConfig = {
-    apiKey: "AIzaSyATyVKro-cR26OLKR_O78HY8u_P82-mQ3o",
-    authDomain: "clientpanel-e9ae7.firebaseapp.com",
-    databaseURL: "https://clientpanel-e9ae7.firebaseio.com",
-    storageBucket: "clientpanel-e9ae7.appspot.com",
-    messagingSenderId: "479596555240"
+    apiKey: " ",
+    authDomain: " ",
+    databaseURL: " ",
+    storageBucket: " ",
+    messagingSenderId: " "
 }
 
 @NgModule({
